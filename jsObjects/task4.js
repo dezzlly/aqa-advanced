@@ -1,10 +1,10 @@
 const person = {
-    firstName: 'Jon',
-    lastName: 'Dou',
-    age: 35
-}
+	firstName: 'Jon',
+	lastName: 'Dou',
+	age: 35,
+};
 
-person.email = 'test@gmail.com'
-delete person.age
+person.email = 'test@gmail.com';
+delete person.age;
 
-console.log(person)
+console.log(person);
